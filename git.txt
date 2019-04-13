@@ -1,0 +1,3 @@
+reset   --mixed HEAD`
+reset   --soft HEAD`
+reset   --hard HEAD`
